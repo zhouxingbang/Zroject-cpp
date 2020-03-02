@@ -1,0 +1,9 @@
+.vs
+node_modules
+BuildLog
+pdb
+**/vcxproj.user
+**/win32_vc15_unicode_debug
+**/x64_vc15_unicode_debug
+**/win32_vc15_unicode_release
+**/x64_vc15_unicode_release
