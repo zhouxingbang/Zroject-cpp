@@ -2,8 +2,8 @@
 node_modules
 BuildLog
 pdb
-**/vcxproj.user
-**/win32_vc15_unicode_debug
-**/x64_vc15_unicode_debug
-**/win32_vc15_unicode_release
-**/x64_vc15_unicode_release
+code/**/vcxproj.user
+code/**/win32_vc15_unicode_debug
+code/**/x64_vc15_unicode_debug
+code/**/win32_vc15_unicode_release
+code/**/x64_vc15_unicode_release
